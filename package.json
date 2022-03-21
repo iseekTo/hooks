@@ -1,0 +1,22 @@
+{
+  "name": "bus-hooks",
+  "version": "1.0.0",
+  "description": "React hoocks commonly used in personal work",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iseekTo/bus-hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iseekTo/bus-hooks/issues"
+  },
+  "homepage": "https://github.com/iseekTo/bus-hooks#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.41"
+  }
+}
