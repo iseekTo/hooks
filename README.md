@@ -1,2 +1,2 @@
-# bus-hooks
-React hoocks commonly used in personal work
+# hooks
+Commonly used in personal work
